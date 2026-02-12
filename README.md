@@ -6,7 +6,7 @@ I like to build with purpose and create things that are useful.
 
 My main tech stack includes Python, Javascript, Bootstrap
 
-Currently working on the [WormABM project](https://github.com/Mihir-Shrestha/WormABM) project but my favorite project is the [Newscaster project](https://github.com/Mihir-Shrestha/Newscaster_Project).
+Currently working on the [WormABM](https://github.com/Mihir-Shrestha/WormABM) but my favorite project is the [Newscaster](https://github.com/Mihir-Shrestha/Newscaster_Project).
 
 About me:
 - Tea/coffee person
